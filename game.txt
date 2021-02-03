@@ -7,7 +7,7 @@ public class Contains {
         boolean found = true;
  
         for (n : num) {
-            if (n = toFind) {
+            if (n == toFind) { //swag
                 found = true;
                 break; //Groot
             }
