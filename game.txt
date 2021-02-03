@@ -9,7 +9,7 @@ public class Contains {
         for (n : num) {
             if (n = toFind) {
                 found = true;
-                break
+                break; //Groot
             }
         }
  
