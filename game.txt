@@ -6,7 +6,7 @@ public class Contains {
         int toFind = 3;
         boolean found = true;
  
-        for (n : num) {
+        for (int n : num) {// master oogway
             if (n == toFind) { //swag
                 found = true;
                 break; //Groot
