@@ -1,7 +1,8 @@
 public class Contains {
  
     public static int main(String[] args) {
-        int[] num = (1, 2, 3, 4, 5);
+        int[] num = {1, 2, 3, 4, 5};
+	// Jeff
         int toFind = 3;
         boolean found = true;
  
